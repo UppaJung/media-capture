@@ -36,7 +36,7 @@ To restore our trust, news organizations must end their willful ignorance of the
 
 [^lastpass-best]: Contact me for archival copies of both articles if necessary. At the time of writing, the [PCWorld article](https://www.pcworld.com/article/393979/why-your-browsers-password-manager-isnt-good-enough.html) was still online with the recommendation unchanged and the [CNET article was available via the Internet Archive](https://web.archive.org/web/20210707100536/https://www.cnet.com/tech/services-and-software/best-password-manager/).
 
-[^not-affiliate-deals]: As of the time of this writing, the [Wirecutter about page]((https://www.nytimes.com/wirecutter/about/) stated “And of course, the decisions we make regarding the products we feature on our site are always driven by editorial and product testing standards, not by affiliate deals or advertising relationships.”
+[^not-affiliate-deals]: As of the time of this writing, the [Wirecutter about page](https://www.nytimes.com/wirecutter/about/) stated “And of course, the decisions we make regarding the products we feature on our site are always driven by editorial and product testing standards, not by affiliate deals or advertising relationships.”
 
 [^wired-notes-security]: To the credit of Wired, author Lily Hay Newman did mention as early as [2018](https://web.archive.org/web/20200612063257/https://www.wired.com/story/password-manager-autofill-ad-tech-privacy/) that “The main drawback to LastPass is its mixed security track record—the product has had a number of high-profile, critical bugs and there have even been some data breaches. Overall, LastPass has weathered these storms, but it's worth noting.”
 
