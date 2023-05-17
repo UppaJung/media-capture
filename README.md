@@ -25,7 +25,7 @@ Yet their coverage isn't trustworthy, because commissions encourage more coverag
 
 Commissions also discourage coverage of products' safety. Investigating safety is expensive, as much more expertise and time are required to research how a product might fail than to check off the products features. Since the mention of one product's hazards can dampen readers enthusiasm for an entire product category, safety coverage also incurs a cost in reduced commissions. It's no wonder coverage of password managers so often glosses over their hazards.
 
-The voluminous news articles that promote hazardous products with so little coverage of their safety demonstrate just how much commissions have allowed industry to capture the media and undermine trust in journalism.
+The extent to which industry has captured the media, and undermined trust in journalism, is evident from the sheer volume of articles promoting hazardous products while understating their risks.
 
 To restore our trust, news organizations must end their willful ignorance of the potential for commissions to bias coverage and cause genuine harm. Those that continue accepting commissions should acknowledge these biases and disclose every penny they receive from each link. Investigative journalists should follow the money that is not disclosed. Perhaps they can start with what may have been tens of millions of dollars received each year by those who published articles recommending LastPass.[^money-flow]
 
