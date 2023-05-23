@@ -23,7 +23,7 @@ News organizations, including The New York Times, claim that coverage is not dri
 
 Rather, commissions may bias both the quantity and the sentiment of coverage for entire product categories. Lucrative commissions create an incentive to give a product category more coverage and to make coverage of that category more favorable. It's no wonder that lucrative products like password managers generate so much coverage, and so much of it positive.
 
-Commissions also discourage coverage of products' safety. Investigating safety is expensive, as much more expertise and time are required to research how a product might fail than to check off the products features. Since the mention of one product's hazards can dampen readers enthusiasm for an entire product category, safety coverage also incurs a cost in reduced commissions. It's no wonder coverage of password managers so often glosses over their hazards.
+Commissions also discourage coverage of products' safety. Investigating safety is expensive, as much more expertise and time are required to research how a product might fail than to check off the product's features. Since the mention of one product's hazards can dampen readers enthusiasm for an entire product category, safety coverage also incurs a cost in reduced commissions. It's no wonder coverage of password managers so often glosses over their hazards.
 
 Commissions can corrupt even if every member of the editorial staff believes themselves editorially independent, by encouraging the hiring of staff tasked with covering lucrative products on short deadlines and discouraging the hiring of staff skilled in scrutinizing product safety. This may not a moral failing on their part, but a simple matter of survival in a competitive marketplace.
 
