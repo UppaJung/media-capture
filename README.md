@@ -21,21 +21,21 @@ Many victims had purchased LastPass because the product had been widely recommen
 
 
 
-News organizations that collect commissions argue we can trust them because they have editorial independence in choosing which is best.
+News organizations that collect commissions argue we can still trust them because they have editorial independence in choosing which product is best its category.
 
 > [We strive to be the most trusted product recommendation service around, and we work with total editorial independence. We won’t post a recommendation unless our writers and editors have deemed something the best through rigorous reporting and testing.](https://www.nytimes.com/wirecutter/about/)<br/> — The New York Times Wirecutter
 
-But commissions can betray our trust even if they do not influence which product is ranked best in its category. Commissions can bias coverage of entire categories, both by driving coverage to more-lucrative product categories and making coverage of those categories more favorable.
+But commissions can still bias the news media, but by driving product coverage to product categories that pay the most commissions and by encouraging more favorable coverage of these product categories as a whole.
 <!-- It is surely not coincidence that lucrative products like password managers generate so much coverage, and so much of it positive, and with so little concern for potential hazards. -->
 
-Commissions also discourage coverage of products' safety. Safety coverage reduces commissions because even the mention of one product's hazards can dampen readers' enthusiasm for the entire product category. Even before commissions, safety received insufficient coverage because it's expensive to investigate. 
+Commissions also discourage coverage of products' safety. Safety coverage reduces commissions because mention of one product's hazards can dampen readers' enthusiasm for the entire product category. Even before commissions, safety received insufficient coverage because it's expensive to investigate. 
 <!-- It's no wonder coverage of lucrative product categories like password managers so often glosses over the products' hazards. -->
 
 Commissions can corrupt even those organizations whose staff work with total editorial independence; they encourage organizations to hire editorial staff tasked with covering lucrative products, on short deadlines, and discourage the hiring of staff skilled in scrutinizing product safety.
 
 Commissions can even corrupt the news media even if news organizations do not intentionally favor product categories with lucrative commissions; those organizations naturally inclined to provide more coverage of lucrative categories, and naturally inclined to make more of it positive, will be more profitable and out-survive others.
 
-The extent to which commissions have already allowed industry to capture the media, and undermined our trust, is evident from the sheer volume of articles promoting hazardous products without sufficient scrutiny of their risks. It is surely not coincidence that lucrative products like password managers generate so much coverage, so much of it positive, and with so little concern for potential hazards.
+The extent to which industry captured the media using commissions is evident from the sheer volume of articles promoting hazardous products without sufficient scrutiny of their risks. It is surely not coincidence that lucrative products like password managers generate so much coverage, so much of it positive, and with so little concern for potential hazards.
 
 To restore our trust, news organizations will need to give up their willful ignorance of the potential for commissions to bias product coverage and harm the public. Those organizations that continue collecting commissions should disclose every penny they receive from every affiliate link. Investigative journalists should follow the money that is not disclosed. A good place to start would be the tens of millions of dollars that may have been paid to the news organizations that recommended LastPass.[^money-flow]
 
