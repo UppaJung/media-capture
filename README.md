@@ -28,7 +28,7 @@ News organizations that collect commissions argue we can trust them because they
 But commissions can betray our trust even if they do not influence which product is ranked best in its category. Commissions can bias coverage of entire categories, both by driving coverage to more lucrative product categories and by biasing that coverage to be more favorable of those categories.
 <!-- It is surely not coincidence that lucrative products like password managers generate so much coverage, and so much of it positive, and with so little concern for potential hazards. -->
 
-Commissions also discourage coverage of products' safety. Safety coverage reduces commissions because even the mention of one product's hazards can dampen readers' enthusiasm for the entire product category. Even before commissions, safety received insufficient coverage because its expensive to investigate. 
+Commissions also discourage coverage of products' safety. Safety coverage reduces commissions because even the mention of one product's hazards can dampen readers' enthusiasm for the entire product category. Even before commissions, safety received insufficient coverage because it's expensive to investigate. 
 <!-- It's no wonder coverage of lucrative product categories like password managers so often glosses over the products' hazards. -->
 
 Commissions can corrupt organizations with perfect editorial independence: they  encourage organizations to hire editorial staff tasked with covering lucrative products on short deadlines and discourage the hiring of staff skilled in scrutinizing product safety.
