@@ -23,7 +23,7 @@ Many victims had purchased LastPass because the product had been widely recommen
 
 News organizations that collect commissions argue we can trust them because they have editorial independence in choosing which is best.
 
-> [We strive to be the most trusted product recommendation service around, and we work with total editorial independence. We won’t post a recommendation unless our writers and editors have deemed something the best through rigorous reporting and testing.](https://www.nytimes.com/wirecutter/about/) — The New York Times Wirecutter
+> [We strive to be the most trusted product recommendation service around, and we work with total editorial independence. We won’t post a recommendation unless our writers and editors have deemed something the best through rigorous reporting and testing.](https://www.nytimes.com/wirecutter/about/)<br/> — The New York Times Wirecutter
 
 But commissions can betray our trust even if they do not influence which product is ranked best in its category. Commissions can bias coverage of entire categories, both by driving coverage to more lucrative product categories and by biasing that coverage to be more favorable of those categories.
 <!-- It is surely not coincidence that lucrative products like password managers generate so much coverage, and so much of it positive, and with so little concern for potential hazards. -->
