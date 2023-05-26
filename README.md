@@ -22,7 +22,7 @@ Many victims had purchased LastPass because the product had been widely recommen
 
 
 
-News organizations that collect commissions argue we can still trust them because they have editorial independence in choosing which product is best its category.
+News organizations that collect commissions argue we can still trust them because they have editorial independence in choosing which product is best in its category.
 
 > [We strive to be the most trusted product recommendation service around, and we work with total editorial independence. We won’t post a recommendation unless our writers and editors have deemed something the best through rigorous reporting and testing.](https://www.nytimes.com/wirecutter/about/)<br/> — The New York Times Wirecutter
 
