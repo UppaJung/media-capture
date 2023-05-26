@@ -40,6 +40,15 @@ The extent to which industry has captured the media using commissions is evident
 
 To restore our trust, news organizations will need to give up their willful ignorance of the many ways commissions can bias product coverage and harm the public. Those organizations that continue collecting commissions should disclose every penny they receive from every affiliate link. Investigative journalists should follow the money that is not disclosed. A good place to start would be the tens of millions of dollars that may have been paid to the news organizations that recommended LastPass.[^money-flow]
 
+---
+
+---
+
+#### Acknowledgements
+
+Many thanks to Cormac Herley and Bruce Schneier for suggestions on earlier drafts.
+
+
 [^editorial-independence]: For example, the second paragraph of [The New York Times Wirecutter about page](https://www.nytimes.com/wirecutter/about/) states “We strive to be the most trusted product recommendation service around, and we work with total editorial independence. We won’t post a recommendation unless our writers and editors have deemed something the best through rigorous reporting and testing.” Later they explain that “the decisions we make regarding the products we feature on our site are always driven by editorial and product testing standards, not by affiliate deals or advertising relationships.” PCWorld, a product of IDG Communications Inc., claims “editorial independence” because [“Our journalists are generally unaware of how much commission – if any – PCWorld receives from a purchase.”](https://www.pcworld.com/about/affiliate-link-policy) Even [Consumer Reports](https://www.consumerreports.org/), the gold standard in product coverage that insists on buying the products it reviews and touts being “ad-free”, influence-free”, and “powered by consumers”, collects affiliate commissions, including via their links to recommended password managers. While LastPass was not among their recommendations as of May 2023, their review of LastPass still rated it “Excellent in data security” despite all the evidence to the contrary.
 
 [^in-favor-of-browser-managers]: For arguments why browser-based password managers may be safer, see a  [blog post by Tavis Ormandy](https://lock.cmpxchg8b.com/passmgrs.html), which I offer with the caveats that Ormandy wrote it while working for Google (maker of Chrome) and that it is fairly one-sided, eliding arguments that favor third-party password managers (e.g., zero knowledge architectures can be betrayed by sending clients malicious code as Ormandy argues, but since doing so risks exposing the betrayal, and so does not scale.)
