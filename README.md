@@ -1,6 +1,5 @@
 # Collecting Commissions Corrupts Product Coverage
 
-###
 <!-- To grasp the severity of the problem consider the analog of pharmaceuticals. -->
 Would you trust newspapers that promoted pharmaceuticals with headlines like ‘*Why You Need an Antidepressant. Yes, You*’?
 
