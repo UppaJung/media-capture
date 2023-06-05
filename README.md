@@ -1,5 +1,6 @@
 # Collecting Commissions Corrupts Product Coverage
 
+###
 <!-- To grasp the severity of the problem consider the analog of pharmaceuticals. -->
 Would you trust newspapers that promoted pharmaceuticals with headlines like ‘*Why You Need an Antidepressant. Yes, You*’?
 
@@ -9,7 +10,7 @@ What if their coverage included purchase links and that paid them a commission f
 
 This is how much of the news media covers potentially-hazardous tech products today. The New York Times has, in fact, published an article with the headline [‘*Why You Need a Password Manager. Yes, You*’](https://www.nytimes.com/2019/08/27/smarter-living/wirecutter/why-you-need-a-password-manager-yes-you.html) in its Wirecutter section; CNET has implored [‘*Yes, You Need a Password Manager. Your Online Security Depends on It*’](https://www.cnet.com/tech/services-and-software/yes-you-need-a-password-manager-your-online-security-depends-on-it/); Engadget has urged [‘*You need a password manager -- right now*’](https://www.engadget.com/2019-08-26-the-best-password-managers-compared.html); and PCWorld has explained [‘*Why your browser’s password manager isn’t good enough*’](https://www.pcworld.com/article/393979/why-your-browsers-password-manager-isnt-good-enough.html).
 
-All the above publications collect commissions when readers click on links to buy password managers, and other tech products they cover.[^nyt-affiliate-links-are-indirect] The free password manager built into your browser, which some say “isn't good enough”, pays no commissions.[^in-favor-of-browser-managers]
+All the above publications collect commissions when readers click on links to buy add-on password managers.[^nyt-affiliate-links-are-indirect] The free password manager built into your web browser, which some articles descrbe as not “good enough”, pays no commissions.[^in-favor-of-browser-managers]
 
 
 [^nyt-affiliate-links-are-indirect]: The New York Times WireCutter's [‘Why You Need a Password Manager. Yes, You’](https://www.nytimes.com/2019/08/27/smarter-living/wirecutter/why-you-need-a-password-manager-yes-you.html) does not have direct affiliate links, but directs readers to another of their articles, [‘The Best Password Managers’](https://www.nytimes.com/wirecutter/reviews/best-password-managers/) which contains purchasing links. Similarly, CNET's [‘Yes, You Need a Password Manager. Your Online Security Depends on It’](https://www.cnet.com/tech/services-and-software/yes-you-need-a-password-manager-your-online-security-depends-on-it/) links to their [rankings of the password managers](https://www.cnet.com/tech/services-and-software/best-password-manager/) with purchasing links that pay commissions. Engadget and PCWorld embedded affiliate links directly into the articles promoting the product category.
@@ -36,17 +37,16 @@ Commissions encourage organizations to hire editorial staff skilled and eager to
 
 Commissions can even corrupt the news media even if news organizations do not intentionally favor product categories with lucrative commissions. Organizations naturally inclined to provide more coverage of lucrative categories, and naturally inclined to make more of it positive, will be more profitable and out-survive others.
 
-The extent to which industry has captured the media using commissions is evident from the sheer volume of articles promoting hazardous products without sufficient scrutiny of their risks. It is surely not coincidence that lucrative products like password managers generate so much coverage, so much of it positive, and with so little concern for potential hazards.
+The extent to which industry has captured the media using commissions is evident from the sheer volume of articles promoting hazardous products without sufficient scrutiny of their risks. It is surely not coincidence that lucrative products like add-on password managers generate so much coverage, so much of it positive, and with so little concern for potential hazards.
 
 To restore our trust, news organizations will need to give up their willful ignorance of the many ways commissions can bias product coverage and harm the public. Those organizations that continue collecting commissions should disclose every penny they receive from every affiliate link. Investigative journalists should follow the money that is not disclosed. A good place to start would be the tens of millions of dollars that may have been paid to the news organizations that recommended LastPass.[^money-flow]
 
----
 
 ---
 
 #### Acknowledgements
 
-Many thanks to Cormac Herley and Bruce Schneier for suggestions on earlier drafts.
+Many thanks to Cormac Herley, Wladimir Palant, and Bruce Schneier for suggestions on earlier drafts.
 
 
 [^editorial-independence]: For example, the second paragraph of [The New York Times Wirecutter about page](https://www.nytimes.com/wirecutter/about/) states “We strive to be the most trusted product recommendation service around, and we work with total editorial independence. We won’t post a recommendation unless our writers and editors have deemed something the best through rigorous reporting and testing.” Later they explain that “the decisions we make regarding the products we feature on our site are always driven by editorial and product testing standards, not by affiliate deals or advertising relationships.” PCWorld, a product of IDG Communications Inc., claims “editorial independence” because [“Our journalists are generally unaware of how much commission – if any – PCWorld receives from a purchase.”](https://www.pcworld.com/about/affiliate-link-policy) Even [Consumer Reports](https://www.consumerreports.org/), the gold standard in product coverage that insists on buying the products it reviews and touts being “ad-free”, influence-free”, and “powered by consumers”, collects affiliate commissions, including via their links to recommended password managers. While LastPass was not among their recommendations as of May 2023, their review of LastPass still rated it “Excellent in data security” despite all the evidence to the contrary.
